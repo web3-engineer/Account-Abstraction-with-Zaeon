@@ -1,6 +1,6 @@
 # [Account Abstraction for Brazil - Ethereum for the masses has started](https://zaeondao.io)
 
-[Modern Business](https://startbootstrap.com/template/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[We thank t](https://startbootstrap.com/template/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
 
 ## Preview
 
