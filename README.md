@@ -1,6 +1,6 @@
 # [Account Abstraction for Brazil - Ethereum for the masses has started](https://zaeondao.io)
 
-[Zaeon is a simple Website at first, but it actually ](https://zaeondao.io) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[Zaeon] is a simple website at first, but it actually the first frond end of an amazing way to connect new users on the Web3 through Account abstraction concepts explored to the maximum. The real use case of Ethereum has brought some problems (https://zaeondao.io) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
 
 ## Preview
 
