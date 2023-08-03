@@ -1,14 +1,8 @@
 # [Account Abstraction for Brazil - Ethereum for the masses has started]   # https://zaeon.io
 
 
+You can now tokenize everything that may exist in our society. the decentralized society concept has taken a improve.
 
-
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
