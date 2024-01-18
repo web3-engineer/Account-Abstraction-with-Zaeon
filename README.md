@@ -3,6 +3,9 @@
 
 You can now tokenize everything that may exist in our society. the decentralized society concept has taken a improve.
 
+first of all you will need top understand the AA basics:
+take a look here and there you go.
+
 
 ## Copyright and License
 
