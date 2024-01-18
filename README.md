@@ -1,4 +1,6 @@
-# [Account Abstraction for Brazil - Ethereum for the masses has started]   # https://zaeon.io
+# [Account Abstraction - Ethereum for the masses has started]   # https://zaeon.io
+
+This research is a result of harzadous and hard work. 
 
 
 You can now tokenize everything that may exist in our society. the decentralized society concept has taken a improve.
